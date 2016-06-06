@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   width="22pt"
+   height="22pt"
+   viewBox="0 0 144 144"
+   xml:space="preserve"
+   id="svg1541"
+   sodipodi:version="0.29"
+   sodipodi:docname="/home/cschalle/SphereCrystal/SphereCrystal/icons/scalable/emblems/emblem-symbolic-link.svg"
+   sodipodi:docbase="/home/cschalle/SphereCrystal/SphereCrystal/icons/scalable/emblems/"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs
+     id="defs1550" />
+  <sodipodi:namedview
+     id="base" />
+  <path
+     style="font-size:12;fill:none;fill-rule:evenodd;stroke-width:0;"
+     d="M144,144H0V0h144v144z"
+     id="path1543"
+     transform="matrix(1.00317,0,0,0.965079,1.37143,3.65714)" />
+  <g
+     style="font-size:12;stroke-width:0;"
+     id="g1544"
+     transform="matrix(3.37129,0,0,3.23854,-1.0532,-323.224)">
+    <path
+       style="fill:#FFFFFF;fill-rule:evenodd;"
+       d="M38.731,139.917h-34.5v-36.5h34.5v36.5z"
+       id="path1545" />
+    <g
+       id="g1546">
+      <path
+         d="M40.768,101.847v40.364H2.231v-40.364h34.881h3.655z M37.112,105.502H5.887v33.052h31.226v-33.052z"
+         id="path1547"
+         style="fill-rule:evenodd;" />
+      <path
+         d="M15.026,120.125l16.297,15.993v-21.477l-3.96,3.96c0,0-3.046-11.577-10.967-11.577S9.39,119.973,9.39,119.973s1.219-8.987,5.636-8.987s6.397,8.987,6.397,8.987l-6.397,0.152z"
+         id="path1548"
+         style="fill-rule:evenodd;" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created with Sodipodi ("http://www.sodipodi.com/") -->
+<svg
+   version="1.0"
+   x="0"
+   y="0"
+   width="40"
+   height="40"
+   viewBox="0 0 129 123"
+   id="svg602"
+   xml:space="preserve"
+   sodipodi:version="0.32"
+   sodipodi:docname="emblem-favorite.svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xml="http://www.w3.org/XML/1998/namespace"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   inkscape:version="0.38.1"
+   sodipodi:docbase="/home/joss/deb/gnome/pkg-gnome/packages/tarballs/gnome-themes-extras-0.7.debian.1/Amaranth/icons/scalable/emblems">
+  <sodipodi:namedview
+   id="base"
+   inkscape:zoom="11.343750"
+   inkscape:cx="16.000000"
+   inkscape:cy="23.052342"
+   inkscape:window-width="640"
+   inkscape:window-height="501"
+   inkscape:window-x="36"
+   inkscape:window-y="46" />
+
+  <defs
+   id="defs871" />
+
+  <g
+   transform="matrix(1.065784,0,0,1.065784,-0.243565,-0.235328)"
+   style="font-size:12;stroke:#000000;"
+   id="g606">
+    <linearGradient
+   x1="101.514603"
+   y1="108.441399"
+   x2="21.1116009"
+   y2="28.0384007"
+   id="XMLID_1_"
+   gradientUnits="userSpaceOnUse">
+      <stop
+   style="stop-color:#c09e2d;stop-opacity:1;"
+   offset="0"
+   id="stop608" />
+
+      <stop
+   style="stop-color:#ffffbf;stop-opacity:1;"
+   offset="1"
+   id="stop609" />
+
+      
+
+      
+
+      
+
+    </linearGradient>
+
+    <path
+   d="M 59.974 4.685 C 60.71 3.208 61.915 3.208 62.652 4.685 L 78.338 36.144 C 79.074 37.621 81.012 39.028 82.644 39.272 L 117.41 44.469 C 119.042 44.713 119.414 45.859 118.237 47.015 L 93.167 71.654 C 91.99 72.81 91.25 75.088 91.522 76.716 L 97.322 111.386 C 97.594 113.014 96.62 113.722 95.156 112.96 L 63.975 96.73 C 62.511 95.968 60.117 95.968 58.653 96.73 L 27.473 112.96 C 26.01 113.722 25.035 113.014 25.307 111.386 L 31.108 76.716 C 31.38 75.088 30.64 72.811 29.463 71.654 L 4.39 47.014 C 3.213 45.858 3.585 44.712 5.217 44.468 L 39.984 39.271 C 41.616 39.027 43.553 37.62 44.29 36.143 L 59.974 4.685 z "
+   style="fill:url(#XMLID_1_);stroke:none;"
+   id="path613" />
+
+    <path
+   d="M 59.974 4.685 C 60.71 3.208 61.915 3.208 62.652 4.685 L 78.338 36.144 C 79.074 37.621 81.012 39.028 82.644 39.272 L 117.41 44.469 C 119.042 44.713 119.414 45.859 118.237 47.015 L 93.167 71.654 C 91.99 72.81 91.25 75.088 91.522 76.716 L 97.322 111.386 C 97.594 113.014 96.62 113.722 95.156 112.96 L 63.975 96.73 C 62.511 95.968 60.117 95.968 58.653 96.73 L 27.473 112.96 C 26.01 113.722 25.035 113.014 25.307 111.386 L 31.108 76.716 C 31.38 75.088 30.64 72.811 29.463 71.654 L 4.39 47.014 C 3.213 45.858 3.585 44.712 5.217 44.468 L 39.984 39.271 C 41.616 39.027 43.553 37.62 44.29 36.143 L 59.974 4.685 z "
+   style="fill:none;stroke-linejoin:round;"
+   id="path614" />
+
+  </g>
+
+  <g
+   transform="matrix(1.065784,0,0,1.065784,-0.243565,-0.235328)"
+   style="font-size:12;opacity:0.3;stroke:#000000;"
+   id="g615">
+    <path
+   d="M 17.7 44.034 C 16.215 43.315 16.337 42.538 17.971 42.308 L 39.73 39.245 C 41.364 39.015 43.303 37.619 44.04 36.142 L 59.724 4.685 C 60.46 3.208 61.665 3.208 62.402 4.685 L 78.088 36.144 C 78.824 37.621 80.762 39.028 82.394 39.272 L 117.16 44.469 C 118.792 44.713 119.164 45.859 117.987 47.015 L 92.917 71.654 C 91.74 72.81 91 75.088 91.272 76.716 L 91.907 80.513 C 92.179 82.141 91.714 82.311 90.872 80.892 C 90.872 80.892 77.002 57.501 61.252 57.501 C 45.502 57.501 17.7 44.034 17.7 44.034 z "
+   style="fill:#ffffff;stroke:none;"
+   id="path616" />
+
+  </g>
+
+  
+</svg>

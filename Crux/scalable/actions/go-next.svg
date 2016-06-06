@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="48" width="48" version="1.0" xmlns:cc="http://web.resource.org/cc/" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3538" y2="89.129" gradientUnits="userSpaceOnUse" x2="25.875" y1="70" x1="25.875">
+   <stop id="stop3490" stop-color="#000" stop-opacity=".39216" offset="0"/>
+   <stop id="stop3492" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3540" y2="7.4072" gradientUnits="userSpaceOnUse" x2="9.2494" gradientTransform="matrix(1.7131 0 0 1.7596 3.202 64.979)" y1="16.016" x1="10.125">
+   <stop id="stop1987" stop-color="#ad7fa8" offset="0"/>
+   <stop id="stop1989" stop-color="#fff" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3542" y2="7.5828" gradientUnits="userSpaceOnUse" x2="9.8553" gradientTransform="matrix(2.5696 0 0 1.7596 -12.644 64.979)" y1="13.559" x1="9.8553">
+   <stop id="stop3333" stop-color="#2e3436" offset="0"/>
+   <stop id="stop3335" stop-color="#5c3566" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3544" y2="74.152" gradientUnits="userSpaceOnUse" x2="18.341" gradientTransform="translate(2,1)" y1="91.791" x1="13.614">
+   <stop id="stop3319" stop-color="#d3d7cf" offset="0"/>
+   <stop id="stop3321" stop-color="#888a85" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3546" y2="84.006" gradientUnits="userSpaceOnUse" x2="34.25" y1="80.624" x1="34.25">
+   <stop id="stop3698" stop-color="#fff" offset="0"/>
+   <stop id="stop3700" stop-color="#fff" stop-opacity=".40996" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient3548" gradientUnits="userSpaceOnUse" cy="10.5" cx="11" gradientTransform="matrix(2.6998 0 0 .31004 -4.7063 80.199)" r="9">
+   <stop id="stop2797" stop-color="#fff" offset="0"/>
+   <stop id="stop2799" stop-color="#eeeeec" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Lapo Calamandrei</dc:title>
+     </cc:Agent>
+    </dc:creator>
+    <cc:license rdf:resource="http://creativecommons.org/licenses/GPL/2.0/"/>
+   </cc:Work>
+   <cc:License rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+    <cc:permits rdf:resource="http://web.resource.org/cc/Reproduction"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/Distribution"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/Notice"/>
+    <cc:permits rdf:resource="http://web.resource.org/cc/DerivativeWorks"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/ShareAlike"/>
+    <cc:requires rdf:resource="http://web.resource.org/cc/SourceCode"/>
+   </cc:License>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer2">
+  <g id="g3531" transform="translate(-.015623 -59.969)">
+   <path id="path3342" opacity=".5" d="m20.469 66.031c-1.355 0.01-2.445 1.115-2.438 2.469v4.562l-12.531-0.031c-0.6558-0.003-1.2858 0.256-1.7496 0.719-0.4638 0.464-0.7227 1.094-0.7192 1.75v14c-0.0035 0.656 0.2554 1.286 0.7192 1.75 0.4638 0.463 1.0938 0.722 1.7496 0.719h12.531v4.531c-0.009 0.958 0.54 1.834 1.406 2.243 0.866 0.41 1.891 0.278 2.625-0.337l17-14c0.575-0.466 0.908-1.166 0.908-1.906s-0.333-1.44-0.908-1.906l-17-14c-0.447-0.37-1.012-0.57-1.593-0.563z" transform="translate(2.0298 .96893)" fill="url(#linearGradient3538)"/>
+   <path id="path3344" stroke-linejoin="round" d="m22.53 69.469v7.032l-15-0.032-0.0002 14h15v7l17-14-17-14z" stroke-dashoffset="1.2" stroke="url(#linearGradient3542)" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="url(#linearGradient3540)"/>
+   <path id="path3477" fill="url(#linearGradient3544)" d="m8.0156 83.469v6.5h14.5c0.275 0.002 0.498 0.225 0.5 0.5v5.969l15.703-12.938-30.703-0.031z"/>
+   <path id="path3348" stroke-linejoin="miter" d="m21.5 70.625v4.906c0.001 0.266-0.104 0.521-0.292 0.708-0.188 0.188-0.443 0.293-0.708 0.292l-14-0.031v12h14c0.265-0.001 0.52 0.104 0.708 0.292s0.293 0.443 0.292 0.708v4.875l14.438-11.875-14.438-11.875z" transform="translate(2.0298 .96893)" stroke-dashoffset="1.2" stroke="url(#linearGradient3546)" stroke-linecap="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-width="1" fill="none"/>
+   <path id="path3350" stroke-linejoin="miter" d="m8.5298 83.469h29.5" stroke="url(#radialGradient3548)" stroke-linecap="round" stroke-width="1px" fill="none"/>
+  </g>
+ </g>
+</svg>
